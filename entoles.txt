@@ -1,0 +1,26 @@
+            /* εναρξη εικονικου περιβαλλοντος*/
+ll_env\Scripts\activate
+
+    /* Για την δημιουργία μιας εφαρμογής θα χρειαστεί 
+    να τρέξουμε την ακόλουθη εντολή στην κονσόλα 
+    (από τον φάκελο που εχουμε ολα τα αρχεια όπου
+    βρίσκεται και το αρχείο manage.py */
+Π.Χ. (ll_env) F:\learning_log>  
+        python manage.py startapp blog
+        "οπου blog= το ονομα του φακελου της εφαρμογης"
+
+            /* εκιννηση σερβερ */
+python manage.py runserver
+
+stoixeia diaxeiristikou Django
+username: giorgos2009
+password: Gkchef1711$
+email: gkchef69@yahoo.gr
+
+Git
+username: Giorgos Kafantaris
+email: gkchef69@yahoo.gr
+
+GitHub
+username: gkchef69
+password: Gkchef1711$
